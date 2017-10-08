@@ -1,0 +1,12 @@
+table,
+th,
+td
+{
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+    align-content: center;
+    align-items: center;
+    width: 50%;
+    text-align: center;
+}
